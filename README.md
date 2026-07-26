@@ -79,6 +79,8 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
 
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivPardeshi&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
+
 </div>
 
 ---
