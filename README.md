@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-pardeshi/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pardeshishiv789@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ShivPardeshi45?label=Follow&style=for-the-badge&logo=github)](https://github.com/ShivPardeshi45)
-![Profile Views](https://komarev.com/ghpvc/?username=ShivPardeshi45&style=for-the-badge&color=1F3864)
+[![GitHub followers](https://img.shields.io/github/followers/ShivPardeshi?label=Follow&style=for-the-badge&logo=github)](https://github.com/ShivPardeshi)
+![Profile Views](https://komarev.com/ghpvc/?username=ShivPardeshi&style=for-the-badge&color=1F3864)
 
 </div>
 
@@ -68,7 +68,7 @@
 | **Alumni Association Platform** | Full-stack platform with role-based dashboards, OpenStreetMap integration, and a donation module, secured with JWT auth and rate limiting | `React.js` `Node.js` `MongoDB Atlas` |
 | **Smart Food Calorie Detector** | Real-time food detection and calorie/macronutrient estimation using computer vision | `YOLOv8` `Computer Vision` |
 
-<div align="center">🔗 <a href="https://github.com/ShivPardeshi45?tab=repositories">Explore all repositories →</a></div>
+<div align="center">🔗 <a href="https://github.com/ShivPardeshi?tab=repositories">Explore all repositories →</a></div>
 
 ---
 
@@ -76,10 +76,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi45&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi45&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
-
-<img src="https://streak-stats.demolab.com/?user=ShivPardeshi45&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
 
 </div>
 
