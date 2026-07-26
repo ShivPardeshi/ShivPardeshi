@@ -79,7 +79,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi45&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi45&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivPardeshi45&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
+<img src="https://streak-stats.demolab.com/?user=ShivPardeshi45&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
 
 </div>
 
@@ -100,7 +100,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-pardeshi/)
+[![LinkedIn](https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-pardeshi/)
 [![Instagram](https://img.shields.io/badge/-shiv.pardeshi__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shiv.pardeshi_/)
 [![Gmail](https://img.shields.io/badge/-pardeshishiv789%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pardeshishiv789@gmail.com)
 [![Email](https://img.shields.io/badge/-shiv%40acadskitcoek.in-D14836?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:shiv@acadskitcoek.in)
