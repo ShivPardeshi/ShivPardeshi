@@ -56,6 +56,72 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+**Creative Tools**
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **ANORA** — Agentic Network for Orchestrating Robust Architectures | Multi-agent AI system simulating a full software team (BA, Architect, Scrum Master, Dev, QA) via the BMAD agile workflow, with MCP integration and E2B sandboxed execution | `Node.js` `Express` `LLM Orchestration` `MCP` |
+| **Alumni Association Platform** | Full-stack platform with role-based dashboards, OpenStreetMap integration, and a donation module, secured with JWT auth and rate limiting | `React.js` `Node.js` `MongoDB Atlas` |
+| **Smart Food Calorie Detector** | Real-time food detection and calorie/macronutrient estimation using computer vision | `YOLOv8` `Computer Vision` |
+
+<div align="center">🔗 <a href="https://github.com/ShivPardeshi?tab=repositories">Explore all repositories →</a></div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivPardeshi&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" />
+
+</div>
+
+---
+
+### 🏅 Certifications & Achievements
+
+- 🎓 Google Cloud Data Analytics Professional Certificate
+- 💼 Fidelity International — Investment Management Job Simulation (Forage)
+- 💻 Walmart USA — Advanced Software Engineering Job Simulation (Forage)
+- 🥈 Top 5 Grand Finalist — Smart India Hackathon (SIH) 2024
+- 🏆 2x Winner — KIT's Project-Based Learning (PBL) Day
+- 🎤 Verbal Mention (2nd Runner-Up) — KITMUN '25
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&cacheSeconds=1)](https://www.linkedin.com/in/shiv-pardeshi/)
+[![Instagram](https://img.shields.io/badge/-shiv.pardeshi__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shiv.pardeshi_/)
+[![Gmail](https://img.shields.io/badge/-pardeshishiv789%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pardeshishiv789@gmail.com)
+[![Email](https://img.shields.io/badge/-shiv%40acadskitcoek.in-D14836?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:shiv@acadskitcoek.in)
+
+*"Building systems, not just software."*
+
+</div>![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
+
+**Tools & Infra**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
 </div>
 
 ---
