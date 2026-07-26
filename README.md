@@ -100,7 +100,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-pardeshi/)
+[![LinkedIn](https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white&cacheSeconds=1)](https://www.linkedin.com/in/shiv-pardeshi/)
 [![Instagram](https://img.shields.io/badge/-shiv.pardeshi__-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shiv.pardeshi_/)
 [![Gmail](https://img.shields.io/badge/-pardeshishiv789%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pardeshishiv789@gmail.com)
 [![Email](https://img.shields.io/badge/-shiv%40acadskitcoek.in-D14836?style=flat-square&logo=Minutemailer&logoColor=white)](mailto:shiv@acadskitcoek.in)
