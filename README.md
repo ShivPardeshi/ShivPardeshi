@@ -22,6 +22,16 @@
 - 🌱 Leading tech operations as **Secretary, ACADS** and **Technical Head, E-Cell KIT CoE**
 - ⚡ Fun fact: I've planned and executed college events with **₹12L+** in combined budgets
 
+<div align="center">
+
+### 🌐 Portfolio
+
+<a href="https://portfolio.parde-shiv2005.workers.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-1F3864?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+</a>
+
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
