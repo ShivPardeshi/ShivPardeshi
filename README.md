@@ -17,30 +17,46 @@
 
 ## 🚀 About Me
 
-Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolhapur, building agentic AI systems and full-stack products — and running tech ops for two campus bodies on the side.
+Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolhapur - building agentic AI systems and full-stack products, and running tech ops for two campus bodies on the side.
 
-- 🧠 Currently deep in **agentic AI** — multi-agent orchestration, LLM tool-use, and the **Model Context Protocol (MCP)**
+- 🧠 Currently deep in **agentic AI** - multi-agent orchestration, LLM tool-use, and the **Model Context Protocol (MCP)**
 - 🏗️ Building **ANORA**, a multi-agent system that simulates an entire software team using the BMAD agile workflow
 - 🌱 Leading tech operations as **Secretary, ACADS** and **Technical Head, E-Cell** at KIT CoE
-- 🏆 **AIR 4 / 2,000+ teams** — National Entrepreneurship Challenge, IIT Bombay · **Top 5 Grand Finalist** — Smart India Hackathon 2024
-- 📊 Also sharpening applied data analytics — SQL, Power BI, and classical ML with scikit-learn
+- 🏆 **AIR 4 / 2,000+ teams** at the National Entrepreneurship Challenge, IIT Bombay, and **Top 5 Grand Finalist** at Smart India Hackathon 2024
+- 📊 Also sharpening applied data analytics - SQL, Power BI, and classical ML with scikit-learn
 - 💬 Ask me about agent orchestration, MCP, or running large-scale campus tech events
 
 <br>
 
 ## 🧰 Tech Stack
 
-<div align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,postgres,firebase,vercel,cloudflare,git,github,figma,blender,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
 
-</div>
+**Frontend & Mobile**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" />
 
-`React Native` `Expo` `Pandas` `NumPy` `Matplotlib` `scikit-learn` `Power BI` `YOLOv8`
+<code>React Native</code> <code>Expo</code>
 
-</div>
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
+
+**Data, ML & Analytics**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>Power BI</code> <code>YOLOv8</code>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,docker&theme=dark" />
+
+**Design & Creative**
+
+<img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" />
 
 <br>
 
@@ -51,7 +67,7 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 <td width="50%" valign="top">
 
 **🤖 [ANORA](https://github.com/ShivPardeshi)**
-Agentic Network for Orchestrating Robust Architectures — a multi-agent system simulating a full software team (BA, Architect, Scrum Master, Dev, QA) via the BMAD agile workflow, with MCP integration and E2B sandboxed execution.
+Agentic Network for Orchestrating Robust Architectures - a multi-agent system simulating a full software team (BA, Architect, Scrum Master, Dev, QA) via the BMAD agile workflow, with MCP integration and E2B sandboxed execution.
 
 `Node.js` `Express` `LLM Orchestration` `MCP`
 
@@ -94,7 +110,7 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivPardeshi&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ShivPardeshi&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivPardeshi&theme=tokyo-night&hide_border=true" />
 
@@ -107,11 +123,11 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 ## 🏅 Certifications & Achievements
 
 - 🎓 Google Cloud Data Analytics Professional Certificate
-- 💼 Fidelity International — Investment Management Job Simulation (Forage)
-- 💻 Walmart USA — Advanced Software Engineering Job Simulation (Forage)
-- 🥈 Top 5 Grand Finalist — Smart India Hackathon (SIH) 2024
-- 🏆 2x Winner — KIT's Project-Based Learning (PBL) Day
-- 🎤 Verbal Mention (2nd Runner-Up) — KITMUN '25
+- 💼 Fidelity International - Investment Management Job Simulation (Forage)
+- 💻 Walmart USA - Advanced Software Engineering Job Simulation (Forage)
+- 🥈 Top 5 Grand Finalist - Smart India Hackathon (SIH) 2024
+- 🏆 2x Winner - KIT's Project-Based Learning (PBL) Day
+- 🎤 Verbal Mention (2nd Runner-Up) - KITMUN '25
 
 <br>
 
