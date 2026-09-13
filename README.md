@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Shiv+Pardeshi+%F0%9F%91%8B;Final-Year+CSE+(AI%2FML)+Student;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+agentic+systems+%26+data-driven+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Shiv+Pardeshi+%F0%9F%91%8B;Final-Year+CSE+(AI%2FML)+Student;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+agentic+systems+%26+data-driven+products" alt="Typing SVG" />
 
 ### 🎓 B.Tech, Computer Science & Engineering (AI/ML) — KIT's College of Engineering, Kolhapur
 
@@ -23,9 +23,6 @@ class ShivPardeshi:
         self.focus = ["Agentic AI Systems", "Full-Stack Development", "Data Analytics"]
         self.leadership = ["Secretary, ACADS", "Technical Head, E-Cell KIT CoE"]
         self.currently_exploring = ["LLM Orchestration", "MCP", "Agile AI Workflows (BMAD)"]
-
-    def fun_fact(self):
-        return "Planned & executed college events with ₹12L+ in combined budgets"
 ```
 
 - 🏆 National Entrepreneurship Challenge (IIT Bombay) — **AIR 4 out of 2,000+ teams**
