@@ -3,13 +3,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Shiv+Pardeshi+%F0%9F%91%8B;Final-Year+CSE+(AI%2FML)+Student;Building+Agentic+AI+Systems+%26+Full-Stack+Products;Secretary%2C+ACADS+%7C+Technical+Head%2C+E-Cell+KIT+CoE" alt="Typing SVG" />
 
 <p>
-  <a href="https://portfolio.shivpardeshi.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shiv-pardeshi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hello@shivpardeshi.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ShivPardeshi?tab=followers"><img src="https://img.shields.io/github/followers/ShivPardeshi?label=Follow&style=for-the-badge&logo=github&color=181717" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ShivPardeshi&style=flat-square&color=2F81F7" />
+<a href="https://portfolio.shivpardeshi.com"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
@@ -30,33 +29,60 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 ## 🧰 Tech Stack
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🗣️ Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
 
-**Frontend & Mobile**
+</td>
+<td width="50%" valign="top">
+
+**🎨 Design & Creative**
+
+<img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💻 Frontend & Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" />
 
 <code>React Native</code> <code>Expo</code>
 
-**Backend & Databases**
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
 
-**Data, ML & Analytics**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Data, ML & Analytics**
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
 <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>Power BI</code> <code>YOLOv8</code>
 
-**Cloud, DevOps & Tools**
+</td>
+<td width="50%" valign="top">
+
+**☁️ Cloud, DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,docker&theme=dark" />
 
-**Design & Creative**
-
-<img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -141,5 +167,7 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 <a href="mailto:hello@shivpardeshi.com"><img src="https://img.shields.io/badge/-hello%40shivpardeshi.com-D14836?style=flat-square&logo=minutemailer&logoColor=white" /></a>
 
 *"Building systems, not just software."*
+
+<img src="https://komarev.com/ghpvc/?username=ShivPardeshi&style=flat-square&color=2F81F7" />
 
 </div>
