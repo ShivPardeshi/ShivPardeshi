@@ -127,6 +127,80 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 *"Building systems, not just software."*
 
 </div>
+`Node.js` `Express` `LLM Orchestration` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Alumni Association Platform**
+Full-stack platform with role-based dashboards, OpenStreetMap integration, and a donation module, secured with JWT auth and rate limiting.
+
+`React.js` `Node.js` `MongoDB Atlas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ Smart Food Calorie Detector**
+Real-time food detection and calorie/macronutrient estimation using computer vision.
+
+`YOLOv8` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 More on GitHub**
+Explore the rest of my repositories, from campus-event tooling to smaller experiments.
+
+<a href="https://github.com/ShivPardeshi?tab=repositories"><b>View all repos →</b></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivPardeshi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivPardeshi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivPardeshi&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivPardeshi&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivPardeshi&theme=tokyonight&no-frame=true&column=4" />
+
+</div>
+
+<br>
+
+## 🏅 Certifications & Achievements
+
+- 🎓 Google Cloud Data Analytics Professional Certificate
+- 💼 Fidelity International — Investment Management Job Simulation (Forage)
+- 💻 Walmart USA — Advanced Software Engineering Job Simulation (Forage)
+- 🥈 Top 5 Grand Finalist — Smart India Hackathon (SIH) 2024
+- 🏆 2x Winner — KIT's Project-Based Learning (PBL) Day
+- 🎤 Verbal Mention (2nd Runner-Up) — KITMUN '25
+
+<br>
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://portfolio.shivpardeshi.com"><img src="https://img.shields.io/badge/-portfolio.shivpardeshi.com-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shiv-pardeshi/"><img src="https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/shiv.pardeshi_/"><img src="https://img.shields.io/badge/-shiv.pardeshi__-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:hello@shivpardeshi.com"><img src="https://img.shields.io/badge/-hello%40shivpardeshi.com-D14836?style=flat-square&logo=minutemailer&logoColor=white" /></a>
+
+*"Building systems, not just software."*
+
+</div>
 **Data & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
