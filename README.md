@@ -161,7 +161,7 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 
 ## 📫 Let's Connect
 
-<a href="https://portfolio.shivpardeshi.com"><img src="https://img.shields.io/badge/-portfolio.shivpardeshi.com-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://shivpardeshi.com"><img src="https://img.shields.io/badge/-shivpardeshi.com-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/shiv-pardeshi/"><img src="https://img.shields.io/badge/-Shiv%20Pardeshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/shiv.pardeshi_/"><img src="https://img.shields.io/badge/-shiv.pardeshi__-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:hello@shivpardeshi.com"><img src="https://img.shields.io/badge/-hello%40shivpardeshi.com-D14836?style=flat-square&logo=minutemailer&logoColor=white" /></a>
