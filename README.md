@@ -23,7 +23,7 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 - 🌱 Leading tech operations as **Secretary, ACADS** and **Technical Head, E-Cell** at KIT CoE
 - 🏆 **AIR 4 / 2,000+ teams** at the National Entrepreneurship Challenge, IIT Bombay, and **Top 5 Grand Finalist** at Smart India Hackathon 2024
 - 📊 Also sharpening applied data analytics - SQL, Power BI, and classical ML with scikit-learn
-- 💬 Ask me about agent orchestration, MCP, or running large-scale campus tech events
+- 💬 Ask me about agent orchestration, MCP, or running large-scale campus tech events.
 
 <br>
 
