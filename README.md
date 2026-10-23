@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolhapur - building agentic AI systems and full-stack products, and running tech ops for two campus bodies on the side.
+Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolhapur - building agentic AI systems, data analytics solutions, and full-stack products.
 
 - 🧠 Currently deep in **agentic AI** - multi-agent orchestration, LLM tool-use, and the **Model Context Protocol (MCP)**
 - 🏗️ Building **ANORA**, a multi-agent system that simulates an entire software team using the BMAD agile workflow
-- 🌱 Leading tech operations as **Secretary, ACADS** and **Technical Head, E-Cell** at KIT CoE
+- 🌱 Former Secretary, ACADS & Former Technical Head, E-Cell at KIT CoE, having completed my tenure in both organizations
 - 🏆 **AIR 4 / 2,000+ teams** at the National Entrepreneurship Challenge, IIT Bombay, and **Top 5 Grand Finalist** at Smart India Hackathon 2024
 - 📊 Also sharpening applied data analytics - SQL, Power BI, and classical ML with scikit-learn
 - 💬 Ask me about agent orchestration, MCP, or running large-scale campus tech events.
@@ -40,13 +40,25 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 </td>
 <td width="50%" valign="top">
 
+**📊 Data, ML & Analytics**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>YOLOv8</code>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **🎨 Design & Creative**
 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **💻 Frontend & Mobile**
@@ -56,22 +68,13 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 <code>React Native</code> <code>Expo</code>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🗄️ Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📊 Data, ML & Analytics**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-
-<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>Power BI</code> <code>YOLOv8</code>
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +87,6 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 </tr>
 </table>
 
-<br>
 
 ## 🌟 Featured Projects
 
