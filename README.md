@@ -35,24 +35,34 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 <strong>🗣️ Languages</strong>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript, TypeScript" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript and TypeScript" />
 
 </td>
 <td width="50%" valign="top">
 
 <strong>📊 Data, ML & Analytics</strong>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="48" alt="Python and PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Excel" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
-</p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="48" height="48" alt="Microsoft Excel" />
+<img src="https://img.icons8.com/color/96/power-bi.png" width="48" height="48" alt="Power BI" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <strong>🎨 Design & Creative</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" alt="Figma, Blender and Photoshop" />
 
@@ -61,11 +71,20 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 <strong>💻 Frontend & Mobile</strong>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,expo&theme=dark" alt="React, Redux, Next.js, Tailwind CSS and Expo" />
-</p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" alt="React, Redux, Next.js and Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="48" height="48" alt="Expo" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <strong>🗄️ Backend & Databases</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Node.js, Express, MongoDB, PostgreSQL and Firebase" />
 
@@ -73,6 +92,8 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 <td width="50%" valign="top">
 
 <strong>☁️ Cloud, DevOps & Tools</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,docker&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Cloudflare and Docker" />
 
