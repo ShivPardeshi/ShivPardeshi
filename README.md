@@ -44,10 +44,9 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
-<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>YOLOv8</code>
+<br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>YOLOv8</code> <code>Excel</code> <code>Power BI</code>
 
 </td>
 </tr>
