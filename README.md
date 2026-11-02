@@ -42,11 +42,16 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 **📊 Data, ML & Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-
-<br>
-
-<code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>scikit-learn</code> <code>YOLOv8</code> <code>Excel</code> <code>Power BI</code>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Microsoft Excel" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
+</p>
 
 </td>
 </tr>
