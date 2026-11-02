@@ -33,24 +33,23 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 <tr>
 <td width="50%" valign="top">
 
-**🗣️ Languages**
+<strong>🗣️ Languages</strong>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript, TypeScript" />
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Data, ML & Analytics**
+<strong>📊 Data, ML & Analytics</strong>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL" />
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Microsoft Excel" />
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Microsoft Excel" />
+<img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
 </p>
 
 </td>
@@ -58,34 +57,37 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 <tr>
 <td width="50%" valign="top">
 
-**🎨 Design & Creative**
+<strong>🎨 Design & Creative</strong>
 
-<img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark" alt="Figma, Blender and Photoshop" />
 
 </td>
 <td width="50%" valign="top">
 
-**💻 Frontend & Mobile**
+<strong>💻 Frontend & Mobile</strong>
 
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" alt="React, Redux, Next.js and Tailwind CSS" />
 
-<code>React Native</code> <code>Expo</code>
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="48" alt="React Native" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" height="48" alt="Expo" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🗄️ Backend & Databases**
+<strong>🗄️ Backend & Databases</strong>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Node.js, Express, MongoDB, PostgreSQL and Firebase" />
 
 </td>
 <td width="50%" valign="top">
 
-**☁️ Cloud, DevOps & Tools**
+<strong>☁️ Cloud, DevOps & Tools</strong>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,cloudflare,docker&theme=dark" alt="Git, GitHub, GitHub Actions, Vercel, Cloudflare and Docker" />
 
 </td>
 </tr>
