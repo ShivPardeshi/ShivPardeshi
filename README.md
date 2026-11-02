@@ -42,20 +42,15 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 <strong>📊 Data, ML & Analytics</strong>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="Python and PyTorch" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Microsoft Excel" />
-<img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="48" alt="Python and PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Excel" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="48" alt="Power BI" />
 </p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 <strong>🎨 Design & Creative</strong>
 
@@ -66,17 +61,9 @@ Final-year **B.Tech CSE (AI/ML)** student at KIT's College of Engineering, Kolha
 
 <strong>💻 Frontend & Mobile</strong>
 
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&theme=dark" alt="React, Redux, Next.js and Tailwind CSS" />
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="48" alt="React Native" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" height="48" alt="Expo" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,expo&theme=dark" alt="React, Redux, Next.js, Tailwind CSS and Expo" />
+</p>
 
 <strong>🗄️ Backend & Databases</strong>
 
