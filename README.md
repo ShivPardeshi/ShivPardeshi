@@ -168,7 +168,7 @@ Explore the rest of my repositories, from campus-event tooling to smaller experi
 - 💼 Fidelity International - Investment Management Job Simulation (Forage)
 - 💻 Walmart USA - Advanced Software Engineering Job Simulation (Forage)
 - 🥈 Top 5 Grand Finalist - Smart India Hackathon (SIH) 2024
-- 🏆 2x Winner - KIT's Project-Based Learning (PBL) Day
+- 🏆 3x Winner - KIT's Project-Based Learning (PBL) Day
 - 🎤 Verbal Mention (2nd Runner-Up) - KITMUN '25
 
 <br>
